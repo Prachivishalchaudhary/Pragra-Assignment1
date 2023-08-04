@@ -2,13 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40c1cb18-53d3-4874-9c28-56e4bb32b49a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentGit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2Array/FindElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2Array/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2Array/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2Array/ReverseNewArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2Array/SmallestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August1/Parameterised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August1/UseThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConstructorPackage/CalculatorConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringQuestion/ArrayString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringQuestion/Concatnation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringQuestion/FindAlphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringQuestion/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july15/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july15/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july15/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july15/GetterAndSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july15/GreatestNumberArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july15/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july15/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july15/PersonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july15/Pragra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/july22/Target.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/july22/Alphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/july22/Alphabet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +55,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SumOfNaturalNumber">
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="july22.MultiplicationTable" />
+}</component>
+  <component name="RunManager" selected="Application.Target">
+    <configuration name="CalculatorConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstructorPackage.CalculatorConstructor" />
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConstructorPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parameterised" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August1.Parameterised" />
+      <module name="Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="August1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Target" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="july22.Target" />
       <module name="Assignment" />
       <extension name="coverage">
         <pattern>
@@ -57,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NaturalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="july22.NaturalNumber" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August1.Test" />
       <module name="Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="july22.*" />
+          <option name="PATTERN" value="August1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,38 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumAndAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="july22.SumAndAverage" />
+    <configuration name="UseThisKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August1.UseThisKeyword" />
       <module name="Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="july22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="july22.SumOddNumber" />
-      <module name="Assignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="july22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfNaturalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="july22.SumOfNaturalNumber" />
-      <module name="Assignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="july22.*" />
+          <option name="PATTERN" value="August1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfNaturalNumber" />
-        <item itemvalue="Application.SumOddNumber" />
-        <item itemvalue="Application.SumAndAverage" />
-        <item itemvalue="Application.NaturalNumber" />
-        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.Target" />
+        <item itemvalue="Application.CalculatorConstructor" />
+        <item itemvalue="Application.UseThisKeyword" />
+        <item itemvalue="Application.Parameterised" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +169,69 @@
           <url>file://$PROJECT_DIR$/src/july22/SumOfNaturalNumber.java</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assignment2Array/LargestNumber.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assignment2Array/SmallestNumber.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assignment2Array/ReverseNewArray.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/july15/GreatestNumberArray.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringQuestion/ReverseString.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringQuestion/ArrayString.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringQuestion/FindAlphabet.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StringQuestion/FindAlphabet.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/August1/UseThisKeyword.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/july15/GetterAndSetter.java</url>
+          <line>20</line>
+          <properties class="july15.GetterAndSetter" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Assignment2Array/FindElementInArray.java</url>
+          <line>3</line>
+          <properties class="Assignment2Array.FindElementInArray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
